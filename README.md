@@ -1,3 +1,3 @@
 # Object-Detection
 
-PROJECT: Number Plate Recognition Using Computer Vision
+**PROJECT:** Number Plate Recognition Using OpenCv and OCR
